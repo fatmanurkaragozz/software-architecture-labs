@@ -1,0 +1,15 @@
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\Lab3Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\Lab3Singleton.AssemblyInfoInputs.cache
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\Lab3Singleton.AssemblyInfo.cs
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\Lab3Singleton.csproj.CoreCompileInputs.cache
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\Lab3Singleton.sourcelink.json
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\bin\Debug\net9.0\Lab3Singleton.exe
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\bin\Debug\net9.0\Lab3Singleton.deps.json
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\bin\Debug\net9.0\Lab3Singleton.runtimeconfig.json
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\bin\Debug\net9.0\Lab3Singleton.dll
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\bin\Debug\net9.0\Lab3Singleton.pdb
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\Lab3Singleton.dll
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\refint\Lab3Singleton.dll
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\Lab3Singleton.pdb
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\Lab3Singleton.genruntimeconfig.cache
+C:\Users\myPC\OneDrive\Masaüstü\Lab3Singleton\obj\Debug\net9.0\ref\Lab3Singleton.dll
